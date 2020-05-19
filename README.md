@@ -13,6 +13,6 @@ https://youtu.be/KH0fLKnzVcI
 https://youtu.be/5gcO0tBRQfg
 - Capítulo 6:
 https://youtu.be/Og2BZ0c-gtk
--Capítulo 7:
+- Capítulo 7:
 
 
