@@ -1,0 +1,11 @@
+require("datos")
+
+print("** Mi Perfil Informatico **")
+print("Nombre:",nombres,apellidos)
+print("Edad:",edad)
+print("--------------------------")
+print("Numero de Dispositivos",numero_dispositivos)
+print("Tipos de Dispositivos (pc,tablet,telefono)",dispositivos.pc,dispositivos.tablet,dispositivos.telefono)
+print("Internet en casa:",internet_en_casa)
+print("---------------------------")
+print("Lenguajes",lenguajes_programacion[1],lenguajes_programacion[2])
