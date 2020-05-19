@@ -3,6 +3,7 @@ Ejemplos del curso basico de lua en el canal de youtube
 
 - Capítulo 1:
 https://youtu.be/R3ky9Z786dc
+
 Introduccion y Aspectos Básicos
 
 - Capítulo 2:
