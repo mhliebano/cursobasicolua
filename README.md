@@ -31,13 +31,16 @@ https://youtu.be/Og2BZ0c-gtk
 
 [Funciones](capitulo6/)
 
-- Capítulo 7:
+- Capítulo 7: 
+https://www.youtube.com/watch?v=AQpHMWXPzsU
 
 [Libreria io, Libreria os](capitulo7/)
 
 - Capítulo 8:
+https://www.youtube.com/watch?v=nPkW-v4f3qA
 
 - Capítulo 9:
+[Liberia math, Libreria string](capitulo8/)
 
 - Capítulo 10:
 
