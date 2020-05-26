@@ -38,6 +38,7 @@ https://www.youtube.com/watch?v=AQpHMWXPzsU
 
 - Capítulo 8:
 https://www.youtube.com/watch?v=nPkW-v4f3qA
+
 [Liberia math, Libreria string](capitulo8/)
 
 - Capítulo 9:
